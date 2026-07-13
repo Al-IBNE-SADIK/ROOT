@@ -1,3 +1,3 @@
 import os
-import BITSADIQ
-BITSADIQ.server()
+import SB
+SB.server()
